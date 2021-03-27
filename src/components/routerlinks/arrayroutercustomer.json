@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "to": "/customerinfoinquiry",
+    "title": "情報照会"
+  },
+  {
+    "id": 2,
+    "to": "/changeaddress",
+    "title": "住所変更"
+  }
+]

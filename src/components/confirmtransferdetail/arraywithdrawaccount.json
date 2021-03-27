@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "dt": "出金口座",
+    "dd": "支店名Ａ普通預金xxxxxxxxxx"
+  },
+  {
+    "id": 2,
+    "dt": "支払残高",
+    "dd": "xxxxxxxxxx"
+  },
+  {
+    "id": 3,
+    "dt": "依頼人",
+    "dd": "xxxxxxxxxx"
+  },
+  {
+    "id": 4,
+    "dt": "連絡先",
+    "dd": "xxx-zzzz-yyyy"
+  }
+]

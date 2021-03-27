@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "to": "/exetransfer",
+    "title": "振込"
+  },
+  {
+    "id": 2,
+    "to": "/exewiretransfer",
+    "title": "振替"
+  },
+  {
+    "id": 3,
+    "to": "/transactionstatusinquiry",
+    "title": "取引状況照会"
+  }
+]

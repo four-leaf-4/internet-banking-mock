@@ -1,0 +1,57 @@
+{
+  "currentinfo": [
+    {
+      "key": 1,
+      "id": "current-mailaddress",
+      "label": "現在のメールアドレス",
+      "value": "xxxx@xxx.com"
+    },
+    {
+      "key": 2,
+      "id": "current-password",
+      "label": "現在のパスワード",
+      "value": "yyyyyyy"
+    }
+  ],
+  "changeitems": {
+    "selectvalue": "password",
+    "items": [
+      {
+        "key": 1,
+        "value": "mailaddress",
+        "label": "メールアドレス"
+      },
+      {
+        "key": 2,
+        "value": "password",
+        "label": "パスワード"
+      }
+    ]
+  },
+  "changedinfo": [
+    {
+      "key": 1,
+      "id": "changed-mailaddress",
+      "label": "変更後のメールアドレス",
+      "value": "pppppp@xxx.com"
+    },
+    {
+      "key": 2,
+      "id": "confirm-changed-mailaddress",
+      "label": "変更後のメールアドレス（確認）",
+      "value": ""
+    },
+    {
+      "key": 3,
+      "id": "changed-password",
+      "label": "変更後のパスワード",
+      "value": "qqqqqqqq"
+    },
+    {
+      "key": 4,
+      "id": "confirm-changed-password",
+      "label": "変更後のパスワード（確認）",
+      "value": ""
+    }
+  ]
+}

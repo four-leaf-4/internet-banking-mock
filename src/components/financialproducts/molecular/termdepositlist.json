@@ -1,0 +1,32 @@
+[
+  {
+    "id": 111,
+    "productName": "定期預金A",
+    "description": "you will be rich ! maybe...",
+    "applylink": "/"
+  },
+  {
+    "id": 2,
+    "productName": "定期預金B",
+    "description": "you will be rich ! maybe...",
+    "applylink": "/"
+  },
+  {
+    "id": 3,
+    "productName": "定期預金C",
+    "description": "you will be rich ! maybe...",
+    "applylink": "/"
+  },
+  {
+    "id": 4,
+    "productName": "定期預金D",
+    "description": "you will be rich ! maybe...",
+    "applylink": "/"
+  },
+  {
+    "id": 5,
+    "productName": "定期預金E",
+    "description": "you will be rich ! maybe...",
+    "applylink": "/"
+  }
+]

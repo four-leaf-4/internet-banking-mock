@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "headline": "項目１",
+    "values": [
+      {
+        "id": "1-1",
+        "title": "ログイン",
+        "value": "ON"
+      },
+      {
+        "id": "1-2",
+        "title": "パスワード変更",
+        "value": "ON"
+      },
+      {
+        "id": "1-3",
+        "title": "テキストA",
+        "value": "ON"
+      },
+      {
+        "id": "1-4",
+        "title": "テキストB",
+        "value": "ON"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "headline": "項目２",
+    "values": [
+      {
+        "id": "2-1",
+        "title": "振込",
+        "value": "ON"
+      },
+      {
+        "id": "2-2",
+        "title": "定期満期",
+        "value": "ON"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "key": 1,
+    "date": "20201101",
+    "withdraw": 500,
+    "deposit": 0,
+    "description": "カード"
+  },
+  {
+    "key": 2,
+    "date": "20201102",
+    "withdraw": 0,
+    "deposit": 900,
+    "description": "カード"
+  },
+  {
+    "key": 3,
+    "date": "20201103",
+    "withdraw": 0,
+    "deposit": 3200,
+    "description": "カード"
+  },
+  {
+    "key": 4,
+    "date": "20201104",
+    "withdraw": 5600,
+    "deposit": 0,
+    "description": "カード"
+  },
+  {
+    "key": 5,
+    "date": "20201105",
+    "withdraw": 0,
+    "deposit": 3000,
+    "description": "カード"
+  },
+  {
+    "key": 6,
+    "date": "20201106",
+    "withdraw": 2500,
+    "deposit": 0,
+    "description": "カード"
+  },
+  {
+    "key": 7,
+    "date": "20201107",
+    "withdraw": 0,
+    "deposit": 1000,
+    "description": "カード"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "銀座支店",
+    "accountNumber": "zzzzzzz"
+  },
+  {
+    "id": 2,
+    "title": "新橋支店",
+    "accountNumber": "qqqqqqq"
+  },
+  {
+    "id": 3,
+    "title": "赤坂支店",
+    "accountNumber": "vvvvvvv"
+  }
+]

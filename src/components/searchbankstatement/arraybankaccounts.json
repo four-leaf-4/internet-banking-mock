@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "accountType": "普通口座",
+    "accountNumber": "000000001",
+    "balance": "200",
+    "availablebalance": "500"
+  },
+  {
+    "id": 2,
+    "accountType": "普通口座",
+    "accountNumber": "000000002",
+    "balance": "600",
+    "availablebalance": "1000"
+  },
+  {
+    "id": 3,
+    "accountType": "当座口座",
+    "accountNumber": "000000003",
+    "balance": "900",
+    "availablebalance": "3500"
+  }
+]

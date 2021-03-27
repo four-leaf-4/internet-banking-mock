@@ -1,0 +1,140 @@
+{
+  "logininfo": {
+    "mailaddress": [
+      {
+        "key": 1,
+        "id": "login-id",
+        "label": "ログインID(メールアドレス)",
+        "input": ""
+      },
+      {
+        "key": 2,
+        "id": "confirm-login-id",
+        "label": "ログインID(メールアドレス)確認",
+        "input": ""
+      }
+    ],
+    "password": [
+      {
+        "key": 1,
+        "id": "login-password",
+        "label": "パスワード",
+        "input": ""
+      },
+      {
+        "key": 2,
+        "id": "confirm-login-password",
+        "label": "パスワード確認",
+        "input": ""
+      }
+    ]
+  },
+  "personalinfo": {
+    "name": [
+      {
+        "chara": "kanji",
+        "first": "山田",
+        "labelfirst": "姓",
+        "last": "太郎",
+        "labellast": "名"
+      },
+      {
+        "chara": "kana",
+        "first": "ヤマダ",
+        "labelfirst": "セイ",
+        "last": "タロウ",
+        "labellast": "メイ"
+      }
+    ],
+    "birthday": "10/10/2000",
+    "sex": "male"
+  },
+  "address": {
+    "postalcode": "1231234",
+    "prefectures": "東京都",
+    "municipality": [
+      {
+        "chara": "kanji",
+        "label": "市区町村",
+        "input": "千代田区"
+      },
+      {
+        "chara": "kana",
+        "label": "市区町村（フリガナ）",
+        "input": "チヨダク"
+      }
+    ],
+    "housenumber": [
+      {
+        "chara": "kanji",
+        "label": "番地",
+        "input": "一番町"
+      },
+      {
+        "chara": "kana",
+        "label": "番地（フリガナ）",
+        "input": "イチバンチョウ"
+      }
+    ],
+    "buildingname": [
+      {
+        "chara": "kanji",
+        "label": "マンション名など",
+        "input": "千代田ビル"
+      },
+      {
+        "chara": "kana",
+        "label": "マンション名など（フリガナ）",
+        "input": "チヨダビル"
+      }
+    ]
+  },
+  "contactinfo": [
+    {
+      "key": 1,
+      "label": "電話番号(携帯電話)",
+      "value": "0801234321"
+    },
+    {
+      "key": 2,
+      "label": "電話番号",
+      "value": "0120223399"
+    }
+  ],
+  "occupation": {
+    "select": "kaisyain",
+    "other": "",
+    "workplace": [
+      {
+        "chara": "kanji",
+        "label": "勤務先もしくは学校",
+        "input": "株式会社zzz"
+      },
+      {
+        "chara": "kana",
+        "label": "勤務先もしくは学校（フリガナ）",
+        "input": "カブシキカイシャ"
+      }
+    ],
+    "telnumber": "0809992222"
+  },
+  "transactionpurpose": {
+    "select": "costofliving",
+    "other": ""
+  },
+  "branch": {
+    "select": "shinagawa"
+  },
+  "cashcard": [
+    {
+      "id": "securitycode",
+      "label": "暗証番号",
+      "input": "1234"
+    },
+    {
+      "id": "confirmsecuritycode",
+      "label": "確認",
+      "input": ""
+    }
+  ]
+}

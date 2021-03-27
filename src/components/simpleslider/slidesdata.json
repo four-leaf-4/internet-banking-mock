@@ -1,0 +1,30 @@
+[
+  {
+    "key": 1,
+    "href": "/dummy",
+    "src": "",
+    "alt": "画像",
+    "title": "お得な情報"
+  },
+  {
+    "key": 2,
+    "href": "/dummy",
+    "src": "",
+    "alt": "画像",
+    "title": "マイナンバー制度について"
+  },
+  {
+    "key": 3,
+    "href": "/dummy",
+    "src": "",
+    "alt": "画像",
+    "title": "NISA申込でプレゼント"
+  },
+  {
+    "key": 4,
+    "href": "/dummy",
+    "src": "",
+    "alt": "画像",
+    "title": "不正送金にご注意ください"
+  }
+]

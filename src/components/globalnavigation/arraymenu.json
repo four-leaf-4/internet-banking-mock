@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "to": "/home/balanceinquiry",
+    "title": "残高照会"
+  },
+  {
+    "id": 2,
+    "to": "/home/bankstatement",
+    "title": "出入金明細"
+  },
+  {
+    "id": 3,
+    "to": "/home/transfer",
+    "title": "振込・振替"
+  },
+  {
+    "id": 5,
+    "to": "/home/transfer",
+    "title": "振込予約状況"
+  },
+  {
+    "id": 6,
+    "to": "/home/termdeposit",
+    "title": "定期預金"
+  },
+  {
+    "id": 7,
+    "to": "/home/customerinfomenu",
+    "title": "お客様情報"
+  }
+]

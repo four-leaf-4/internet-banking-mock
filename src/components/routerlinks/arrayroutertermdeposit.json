@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "to": "/createtermdeposit",
+    "title": "定期預金作成"
+  },
+  {
+    "id": 2,
+    "to": "/canceltermdeposit",
+    "title": "定期預金照会・解約"
+  },
+  {
+    "id": 3,
+    "to": "/creategeneraldeposit",
+    "title": "総合口座定期預金作成"
+  },
+  {
+    "id": 4,
+    "to": "/cancelgeneraldeposit",
+    "title": "総合口座定期預金照会・解約"
+  }
+]

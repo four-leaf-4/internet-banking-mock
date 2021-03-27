@@ -1,0 +1,70 @@
+{
+  "arraybanks": [
+    {
+      "id": 1,
+      "title": "みずほ銀行",
+      "value": "mizuho"
+    },
+    {
+      "id": 2,
+      "title": "三井住友銀行",
+      "value": "mitsuisumitomo"
+    },
+    {
+      "id": 3,
+      "title": "三菱ＵＦＪ銀行",
+      "value": "mitsubishiUFJ"
+    }
+  ],
+  "arraybankbranch": [
+    {
+      "id": 1,
+      "title": "銀座支店",
+      "value": "ginza"
+    },
+    {
+      "id": 2,
+      "title": "新橋支店",
+      "value": "shinbashi"
+    },
+    {
+      "id": 3,
+      "title": "丸の内支店",
+      "value": "marunouchi"
+    }
+  ],
+  "arrayaccountsTitles": [
+    {
+      "id": 1,
+      "title": "Checking accounts",
+      "value": "checking-accounts"
+    },
+    {
+      "id": 2,
+      "title": "Marketable securities",
+      "value": "marketable-securities"
+    },
+    {
+      "id": 3,
+      "title": "Cash",
+      "value": "cash"
+    }
+  ],
+  "arrayaccountNumber": [
+    {
+      "id": 1,
+      "title": "xxx",
+      "value": "xxx"
+    },
+    {
+      "id": 2,
+      "title": "qqq",
+      "value": "qqq"
+    },
+    {
+      "id": 3,
+      "title": "rrr",
+      "value": "rrr"
+    }
+  ]
+}

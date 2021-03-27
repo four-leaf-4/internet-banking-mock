@@ -1,0 +1,29 @@
+[
+  {
+    "key": 1,
+    "depositNumber": 100,
+    "date": "20401212",
+    "deposit": 90000,
+    "term": "100ヵ月",
+    "interestRate": 10,
+    "cancelable": false
+  },
+  {
+    "key": 2,
+    "depositNumber": 101,
+    "date": "20600101",
+    "deposit": 4000000,
+    "term": "200ヵ月",
+    "interestRate": 5,
+    "cancelable": false
+  },
+  {
+    "key": 3,
+    "depositNumber": 102,
+    "date": "20901001",
+    "deposit": 24000000,
+    "term": "50ヵ月",
+    "interestRate": 10,
+    "cancelable": true
+  }
+]
